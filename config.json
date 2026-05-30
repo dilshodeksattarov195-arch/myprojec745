@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authperify",
+        "uuid": 2720740,
+        "checksum": "nolv9d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
